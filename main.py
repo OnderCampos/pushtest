@@ -1,1 +1,1 @@
-Content of the file
+print("Hello from the API!")
