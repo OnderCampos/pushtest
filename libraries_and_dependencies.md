@@ -1,54 +1,39 @@
-- **math** 
- - math is a built-in library that provides mathematical functions and constants.
-  - `No installation required. It is a built-in library in Python.`
-- **csv** 
- - csv is a built-in library that provides functionality for reading and writing CSV files.
-  - `No installation required. It is a built-in library in Python.`
-- **datetime** 
- - datetime is a built-in library that provides functions for working with dates and times.
-  - `No installation required. It is a built-in library in Python.`
-- **os** 
- - os is a built-in library that provides a way of using operating system dependent functionality.
-  - `No installation required. It is a built-in library in Python.`
-- **re** 
- - re is a built-in library that provides regular expression matching operations.
-  - `No installation required. It is a built-in library in Python.`
-- **sys** 
- - sys is a built-in library that provides access to some variables used or maintained by the interpreter and functions that interact with the interpreter.
-  - `No installation required. It is a built-in library in Python.`
-- **json** 
- - json is a built-in library that provides functionality for working with JSON data.
-  - `No installation required. It is a built-in library in Python.`
-- **logging** 
- - logging is a built-in library that supports logging messages in a program.
-  - `No installation required. It is a built-in library in Python.`
-- **selenium** 
- - selenium is a library for automating web browsers.
-  - `pip install selenium`
-- **pandas** 
- - pandas is a fast, powerful, and flexible open-source data analysis and manipulation library for Python.
-  - `pip install pandas`
-- **numpy** 
- - numpy is a fundamental package for scientific computing with Python.
-  - `pip install numpy`
-- **matplotlib** 
- - matplotlib is a plotting library for Python.
+## **math** 
+ - Provides mathematical functions.
+  - `No installation required. It is a built-in library of Python.`
+## **csv** 
+ - Provides functionality to read and write CSV files.
+  - `No installation required. It is a built-in library of Python.`
+## **matplotlib.pyplot** 
+ - A plotting library for Python. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits.
   - `pip install matplotlib`
-- **seaborn** 
- - seaborn is a Python data visualization library based on matplotlib.
-  - `pip install seaborn`
-- **scipy** 
- - scipy is a scientific computing library for Python.
-  - `pip install scipy`
-- **sqlalchemy** 
- - sqlalchemy is a SQL toolkit and Object-Relational Mapping (ORM) library for Python.
-  - `pip install sqlalchemy`
-- **flask** 
- - Flask is a lightweight WSGI web application framework.
+## **datetime** 
+ - Provides classes for manipulating dates and times.
+  - `No installation required. It is a built-in library of Python.`
+## **numpy** 
+ - A powerful library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a large collection of mathematical functions to operate on these arrays.
+  - `pip install numpy`
+## **sklearn.linear_model** 
+ - Part of scikit-learn library, it provides various linear regression models including Ordinary Least Squares and Ridge Regression.
+  - `pip install scikit-learn`
+## **flask** 
+ - A micro web framework written in Python that allows you to build web applications easily and with a minimum of fuss.
   - `pip install flask`
-- **requests** 
- - requests is a simple HTTP library for Python.
+## **requests** 
+ - A simple HTTP library for Python.
   - `pip install requests`
-- **sklearn** 
- - sklearn is a machine learning library for Python.
-  - `pip install -U scikit-learn`
+## **re** 
+ - Provides regular expression matching operations similar to those found in Perl.
+  - `No installation required. It is a built-in library of Python.`
+## **collections** 
+ - Provides implementations of several container datatypes, including Counter and defaultdict.
+  - `No installation required. It is a built-in library of Python.`
+## **scipy.stats** 
+ - A library for statistical computations in Python.
+  - `pip install scipy`
+## **pandas** 
+ - A fast, powerful, and flexible open-source data analysis and manipulation library for Python.
+  - `pip install pandas`
+## **sklearn.model_selection** 
+ - Part of scikit-learn library, it provides tools for model selection and evaluation, including train-test split functionality.
+  - `pip install scikit-learn`
