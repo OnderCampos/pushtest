@@ -1,45 +1,54 @@
 ## **scipy** 
- - SciPy is a library used for scientific and technical computing in Python.
+ - SciPy is a library used for scientific and technical computing.
   - `pip install scipy`
 ## **re** 
- - The re module provides regular expression matching operations similar to those found in Perl.
-  - `No installation required`
+ - re is a library used for regular expression operations.
+  - `No installation required. It is a built-in library.`
 ## **datetime** 
- - The datetime module supplies classes for working with dates and times.
-  - `No installation required`
+ - datetime is a library used for manipulating dates and times.
+  - `No installation required. It is a built-in library.`
 ## **logging** 
- - The logging module defines functions and classes which implement a flexible event logging system for applications and libraries.
-  - `No installation required`
+ - Logging is a library used for logging messages during application execution.
+  - `No installation required. It is a built-in library.`
 ## **os** 
- - The os module provides a way of using operating system dependent functionality.
-  - `No installation required`
-## **requests** 
- - Requests is a simple HTTP library for Python.
-  - `pip install requests`
+ - os is a library providing a way of using operating system dependent functionality.
+  - `No installation required. It is a built-in library.`
 ## **csv** 
- - This module implements classes to read and write tabular data in CSV format.
-  - `No installation required`
+ - csv is a library used for reading and writing CSV files.
+  - `No installation required. It is a built-in library.`
 ## **sys** 
- - This module provides access to some variables used or maintained by the interpreter and to functions that interact with the interpreter.
-  - `No installation required`
+ - sys is a library providing access to some variables used and maintained by the interpreter.
+  - `No installation required. It is a built-in library.`
 ## **sklearn** 
- - Scikit-learn is a machine learning library for Python.
+ - scikit-learn is a library used for machine learning and data analysis.
   - `pip install scikit-learn`
+## **collections** 
+ - collections is a library providing specialized container datatypes.
+  - `No installation required. It is a built-in library.`
+## **json** 
+ - json is a library used for working with JSON data.
+  - `No installation required. It is a built-in library.`
 ## **sqlalchemy** 
- - SQLAlchemy is a SQL toolkit and Object-Relational Mapping (ORM) library for Python.
-  - `pip install sqlalchemy`
+ - SQLAlchemy is a library used for SQL database access and object-relational mapping.
+  - `pip install SQLAlchemy`
 ## **matplotlib** 
- - Matplotlib is a plotting library for Python.
+ - Matplotlib is a library used for creating static, animated, and interactive visualizations in Python.
   - `pip install matplotlib`
 ## **flask** 
- - Flask is a lightweight web framework for Python.
+ - Flask is a library used for building web applications in Python.
   - `pip install flask`
 ## **pandas** 
- - Pandas is a data analysis and manipulation library for Python.
+ - Pandas is a library used for data manipulation and analysis.
   - `pip install pandas`
+## **itertools** 
+ - itertools is a library providing various functions that work on iterators.
+  - `No installation required. It is a built-in library.`
 ## **numpy** 
- - NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+ - NumPy is a library used for working with arrays and numerical computing.
   - `pip install numpy`
+## **math** 
+ - math is a library providing mathematical functions.
+  - `No installation required. It is a built-in library.`
 ## **seaborn** 
- - Seaborn is a data visualization library based on Matplotlib.
+ - Seaborn is a library used for data visualization and statistical graphics.
   - `pip install seaborn`
