@@ -1,54 +1,54 @@
 ## **scipy** 
- - SciPy is a library used for scientific and technical computing.
+ - Scipy is a library for scientific computing and technical computing. It provides many efficient and user-friendly interfaces for tasks such as numerical integration, optimization, interpolation, linear algebra, and more.
   - `pip install scipy`
 ## **re** 
- - re is a module that provides support for regular expressions in Python.
-  - `No installation needed. It is a built-in module.`
+ - Re is a module that provides support for regular expressions (regex) in Python. It allows you to search and manipulate strings using a specified pattern.
+  - `No installation required. It is a built-in module.`
 ## **datetime** 
- - datetime is a module that supplies classes for manipulating dates and times.
-  - `No installation needed. It is a built-in module.`
+ - Datetime is a module that supplies classes for working with dates and times. It provides various functions and classes for working with dates, times, time intervals, and time zones.
+  - `No installation required. It is a built-in module.`
 ## **logging** 
- - logging is a module that provides a flexible framework for emitting log messages from Python programs.
-  - `No installation needed. It is a built-in module.`
+ - Logging is a module that provides a flexible framework for emitting log messages from Python programs. It provides a powerful and customizable logging system that can be used for debugging, auditing, and monitoring.
+  - `No installation required. It is a built-in module.`
 ## **os** 
- - os is a module that provides a way of using operating system dependent functionality.
-  - `No installation needed. It is a built-in module.`
+ - Os is a module that provides a way of using operating system dependent functionality. It allows you to interact with the operating system, such as reading or writing files, manipulating directories, and executing system commands.
+  - `No installation required. It is a built-in module.`
 ## **requests** 
- - Requests is a simple HTTP library for Python.
+ - Requests is a simple HTTP library for Python. It provides a high-level interface for sending HTTP requests and handling responses, allowing you to easily retrieve web pages, send data, and interact with APIs.
   - `pip install requests`
 ## **csv** 
- - csv is a module that implements classes to read and write tabular data in CSV format.
-  - `No installation needed. It is a built-in module.`
+ - Csv is a module that provides functions for working with CSV (Comma Separated Values) files. It allows you to read from and write to CSV files, parse CSV data, and manipulate CSV data in various ways.
+  - `No installation required. It is a built-in module.`
 ## **sys** 
- - sys is a module that provides access to some variables used or maintained by the interpreter and to functions that interact with the interpreter.
-  - `No installation needed. It is a built-in module.`
+ - Sys is a module that provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter. It allows you to manipulate the runtime environment, access command-line arguments, and interact with the interpreter.
+  - `No installation required. It is a built-in module.`
 ## **sklearn** 
- - Scikit-learn is a machine learning library in Python that provides simple and efficient tools for data mining and data analysis.
+ - Sklearn is a library for machine learning and data mining in Python. It provides a wide range of efficient tools for classification, regression, clustering, dimensionality reduction, model selection, and preprocessing.
   - `pip install scikit-learn`
 ## **collections** 
- - collections is a module that implements specialized container datatypes providing alternatives to Python’s general purpose built-in containers, dict, list, set, and tuple.
-  - `No installation needed. It is a built-in module.`
+ - Collections is a module that provides alternative implementations of built-in container types and additional high-performance data structures. It includes specialized container datatypes like Counter, defaultdict, NamedTuple, and OrderedDict.
+  - `No installation required. It is a built-in module.`
 ## **json** 
- - json is a module that provides functions for working with JSON data.
-  - `No installation needed. It is a built-in module.`
-## **sqlalchemy** 
- - SQLAlchemy is a SQL toolkit and Object-Relational Mapping (ORM) library for Python.
-  - `pip install sqlalchemy`
+ - Json is a module that provides functions for working with JSON (JavaScript Object Notation) data. It allows you to encode Python objects into JSON strings and decode JSON strings into Python objects.
+  - `No installation required. It is a built-in module.`
 ## **matplotlib** 
- - Matplotlib is a plotting library for the Python programming language.
+ - Matplotlib is a plotting library for Python. It provides functions and classes for creating a wide variety of static, animated, and interactive visualizations in Python.
   - `pip install matplotlib`
 ## **flask** 
- - Flask is a lightweight web framework for Python.
-  - `pip install flask`
+ - Flask is a micro web framework written in Python. It is designed to be small and easy to use, with a focus on simplicity and minimalism. It allows you to build web applications quickly and easily.
+  - `pip install Flask`
 ## **pandas** 
- - Pandas is a library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+ - Pandas is a library for data manipulation and analysis. It provides data structures and functions for efficiently handling and analyzing structured data, including data alignment, indexing, reshaping, merging, and grouping.
   - `pip install pandas`
 ## **itertools** 
- - itertools is a module that provides various functions for efficient iteration.
-  - `No installation needed. It is a built-in module.`
+ - Itertools is a module that provides functions for working with iterators and iterable objects. It allows you to create, manipulate, and combine iterators to perform various tasks in a memory-efficient and flexible way.
+  - `No installation required. It is a built-in module.`
 ## **numpy** 
- - NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions.
+ - Numpy is a library for numerical computing in Python. It provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and a collection of functions for performing mathematical operations on arrays.
   - `pip install numpy`
+## **math** 
+ - Math is a module that provides mathematical functions and constants. It includes functions for basic mathematical operations, trigonometry, logarithms, exponentiation, rounding, and more.
+  - `No installation required. It is a built-in module.`
 ## **seaborn** 
- - Seaborn is a Python data visualization library based on matplotlib that provides a high-level interface for drawing statistical graphics.
+ - Seaborn is a data visualization library based on matplotlib. It provides a high-level interface for creating informative and attractive statistical graphics.
   - `pip install seaborn`
