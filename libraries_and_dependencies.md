@@ -1,51 +1,60 @@
-## **itertools** 
- - itertools is a Python module that provides various functions for efficient iteration over sequences.
-  - `No installation required.`
-## **sqlalchemy** 
- - SQLAlchemy is a Python SQL toolkit and Object-Relational Mapping (ORM) library.
-  - `pip install sqlalchemy`
-## **logging** 
- - Logging is a Python module that provides a flexible framework for emitting log messages from Python programs.
-  - `No installation required.`
-## **numpy** 
- - NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
-  - `pip install numpy`
-## **math** 
- - Math is a module that provides mathematical functions and constants.
-  - `No installation required.`
+## **Flask** 
+ - Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.
+  - `pip install flask`
+## **collections** 
+ - The collections module is a built-in module that implements specialized container datatypes.
+  - `No installation required. It is part of Python Standard Library.`
 ## **seaborn** 
- - Seaborn is a library for making attractive and informative statistical graphics in Python.
+ - Seaborn is a data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
   - `pip install seaborn`
-## **sklearn** 
- - Scikit-learn is a machine learning library for Python that provides simple and efficient tools for data mining and data analysis.
-  - `pip install -U scikit-learn`
 ## **requests** 
  - Requests is a simple HTTP library for Python.
   - `pip install requests`
+## **os** 
+ - The os module provides a way of using operating system dependent functionality.
+  - `No installation required. It is part of Python Standard Library.`
 ## **datetime** 
- - Datetime is a module that supplies classes for working with dates and times.
-  - `No installation required.`
-## **scipy** 
- - SciPy is a library used for scientific and technical computing, including functions for optimization, integration, interpolation, linear algebra, and more.
-  - `pip install scipy`
+ - The datetime module supplies classes for working with dates and times.
+  - `No installation required. It is part of Python Standard Library.`
+## **sqlalchemy** 
+ - SQLAlchemy is the Python SQL toolkit and Object-Relational Mapping (ORM) library that gives application developers the full power and flexibility of SQL.
+  - `pip install sqlalchemy`
 ## **pandas** 
- - Pandas is a library for high-performance, easy-to-use data structures and data analysis tools.
+ - Pandas is a fast, powerful, flexible and easy to use open-source data analysis and manipulation library for Python.
   - `pip install pandas`
 ## **csv** 
- - CSV is a module that provides functionality for both reading from and writing to CSV files.
-  - `No installation required.`
-## **re** 
- - Re is a module that provides regular expression matching operations similar to those found in Perl.
-  - `No installation required.`
-## **os** 
- - OS is a module that provides a way of using operating system dependent functionality.
-  - `No installation required.`
-## **matplotlib** 
- - Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
-  - `pip install matplotlib`
-## **flask** 
- - Flask is a micro web framework written in Python.
-  - `pip install flask`
+ - The csv module provides classes for reading and writing tabular data in CSV format.
+  - `No installation required. It is part of Python Standard Library.`
 ## **sys** 
- - Sys is a module that provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter.
-  - `No installation required.`
+ - The sys module provides various functions and variables which are used to manipulate different parts of the Python runtime environment.
+  - `No installation required. It is part of Python Standard Library.`
+## **math** 
+ - The math module provides mathematical functions and constants.
+  - `No installation required. It is part of Python Standard Library.`
+## **matplotlib** 
+ - Matplotlib is a plotting library that produces plots and figures in a variety of formats.
+  - `pip install matplotlib`
+## **numpy** 
+ - NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+  - `pip install numpy`
+## **itertools** 
+ - The itertools module is a collection of tools for handling iterators.
+  - `No installation required. It is part of Python Standard Library.`
+## **sklearn** 
+ - Scikit-learn is a free software machine learning library for the Python programming language.
+  - `pip install scikit-learn`
+## **logging** 
+ - The logging module is part of the standard Python library and provides facilities for emitting log messages from Python programs.
+  - `No installation required. It is part of Python Standard Library.`
+## **re** 
+ - The re module provides support for regular expressions in Python.
+  - `No installation required. It is part of Python Standard Library.`
+## **scipy** 
+ - SciPy is a library used for scientific and technical computing.
+  - `pip install scipy`
+## **datetime (from datetime)** 
+ - The datetime module supplies classes for working with dates and times.
+  - `No installation required. It is part of Python Standard Library.`
+## **json** 
+ - The json module provides functions for parsing and encoding JSON data.
+  - `No installation required. It is part of Python Standard Library.`
