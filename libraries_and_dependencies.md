@@ -1,51 +1,51 @@
 ## **itertools** 
- - Functions creating iterators for efficient looping.
-  - `No installation required`
+ - ITertools provides various functions that work on iterators to produce complex iterators.
+  - `No installation required.`
 ## **sqlalchemy** 
- - SQL toolkit and Object-Relational Mapping (ORM) library for Python.
+ - SQLAlchemy is a SQL toolkit and Object-Relational Mapping (ORM) library for Python.
   - `pip install sqlalchemy`
 ## **logging** 
- - Logging library for Python.
-  - `No installation required`
+ - Logging is a module that provides a flexible framework for emitting log messages from Python programs.
+  - `No installation required.`
 ## **numpy** 
- - Fundamental package for scientific computing with Python.
+ - NumPy is a fundamental package for scientific computing with Python.
   - `pip install numpy`
 ## **math** 
- - Mathematical functions library for Python.
-  - `No installation required`
+ - Math is a built-in module that provides mathematical functions.
+  - `No installation required.`
 ## **seaborn** 
- - Python data visualization library based on matplotlib.
+ - Seaborn is a data visualization library based on Matplotlib.
   - `pip install seaborn`
 ## **sklearn** 
- - Machine learning library for Python.
+ - Scikit-learn is a machine learning library for Python.
   - `pip install scikit-learn`
 ## **requests** 
- - HTTP library for Python.
+ - Requests is a simple HTTP library for Python.
   - `pip install requests`
 ## **datetime** 
- - Basic and more advanced date and time handling in Python.
-  - `No installation required`
+ - Datetime is a module that supplies classes for working with dates and times.
+  - `No installation required.`
 ## **scipy** 
- - Library used for scientific and technical computing.
+ - Scipy is a library used for scientific and technical computing.
   - `pip install scipy`
 ## **pandas** 
- - Data manipulation and analysis library.
+ - Pandas is a fast, powerful, and flexible open-source data analysis and manipulation library for Python.
   - `pip install pandas`
 ## **csv** 
- - Library for reading and writing CSV files.
-  - `No installation required`
+ - CSV is a module specifically designed to handle CSV files.
+  - `No installation required.`
 ## **re** 
- - Regular expression operations library.
-  - `No installation required`
+ - RE is a module that provides regular expression matching operations.
+  - `No installation required.`
 ## **os** 
- - Library to interact with the operating system.
-  - `No installation required`
+ - OS module provides a simple way of using operating system dependent functionality.
+  - `No installation required.`
 ## **matplotlib** 
- - Data visualization library.
+ - Matplotlib is a plotting library for Python.
   - `pip install matplotlib`
 ## **flask** 
- - Micro web framework for Python.
+ - Flask is a lightweight web application framework.
   - `pip install flask`
 ## **sys** 
- - System-specific parameters and functions library.
-  - `No installation required`
+ - Sys module provides access to some variables used or maintained by the interpreter and to functions that interact with the interpreter.
+  - `No installation required.`
