@@ -1,54 +1,54 @@
-## **flask** 
- - Flask is a micro web framework for Python.
-  - `pip install flask`
-## **seaborn** 
- - Seaborn is a data visualization library based on Matplotlib.
-  - `pip install seaborn`
-## **collections** 
- - Collections is a module that implements specialized container datatypes.
-  - `No installation required. It is a built-in module.`
-## **json** 
- - JSON (JavaScript Object Notation) is a lightweight data interchange format.
-  - `No installation required. It is a built-in module.`
 ## **numpy** 
- - NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+ - NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions.
   - `pip install numpy`
-## **sklearn** 
- - Scikit-Learn is a library for machine learning in Python.
-  - `pip install scikit-learn`
-## **math** 
- - Math is a module that provides mathematical functions.
-  - `No installation required. It is a built-in module.`
-## **sqlalchemy** 
- - SQLAlchemy is an SQL toolkit and Object-Relational Mapping (ORM) library for Python.
-  - `pip install sqlalchemy`
+## **pandas** 
+ - Pandas is a fast, powerful, flexible, and easy-to-use open-source data analysis and data manipulation library built on top of the Python programming language.
+  - `pip install pandas`
+## **json** 
+ - JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write and is easy for machines to parse and generate.
+  - `No installation required.`
+## **Flask** 
+ - Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.
+  - `pip install flask`
+## **datetime** 
+ - The datetime module supplies classes for working with dates and times.
+  - `No installation required.`
+## **logging** 
+ - The logging module defines functions and classes which implement a flexible event logging system for applications and libraries.
+  - `No installation required.`
+## **scipy** 
+ - SciPy is a library used in scientific computing and technical computing in Python. SciPy contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, ODE solvers, and other tasks common in science and engineering.
+  - `pip install scipy`
 ## **os** 
- - OS is a module that provides a way of using operating system dependent functionality.
-  - `No installation required. It is a built-in module.`
+ - The os module provides a portable way of using operating system dependent functionality.
+  - `No installation required.`
+## **sklearn** 
+ - Scikit-learn is a free software machine learning library for Python programming language.
+  - `pip install scikit-learn`
+## **sys** 
+ - The sys module provides information about constants, functions and methods of the Python interpreter.
+  - `No installation required.`
+## **matplotlib** 
+ - Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
+  - `pip install matplotlib`
+## **seaborn** 
+ - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+  - `pip install seaborn`
+## **csv** 
+ - The csv module implements classes to read and write tabular data in CSV format.
+  - `No installation required.`
+## **re** 
+ - The re module provides support for regular expressions in Python.
+  - `No installation required.`
+## **math** 
+ - The math module provides mathematical functions.
+  - `No installation required.`
+## **sqlalchemy** 
+ - SQLAlchemy is an open-source SQL toolkit and object-relational mapper for the Python programming language.
+  - `pip install sqlalchemy`
 ## **requests** 
  - Requests is a simple HTTP library for Python.
   - `pip install requests`
 ## **itertools** 
- - Itertools is a module that provides various functions that work on iterators to produce complex iterators.
-  - `No installation required. It is a built-in module.`
-## **sys** 
- - Sys is a module that provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter.
-  - `No installation required. It is a built-in module.`
-## **matplotlib** 
- - Matplotlib is a plotting library for Python.
-  - `pip install matplotlib`
-## **datetime** 
- - Datetime is a module that supplies classes for working with dates and times.
-  - `No installation required. It is a built-in module.`
-## **csv** 
- - CSV is a module that provides classes for reading and writing data to CSV files.
-  - `No installation required. It is a built-in module.`
-## **scipy** 
- - Scipy is a library used for scientific and technical computing in Python.
-  - `pip install scipy`
-## **pandas** 
- - Pandas is a fast, powerful, and flexible open-source data analysis and manipulation library for Python.
-  - `pip install pandas`
-## **re** 
- - Re is a module that provides regular expression matching operations similar to those found in Perl.
-  - `No installation required. It is a built-in module.`
+ - The itertools module provides a set of fast, memory-efficient tools for creating iterators.
+  - `No installation required.`
