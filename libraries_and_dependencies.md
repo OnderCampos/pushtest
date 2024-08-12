@@ -1,60 +1,54 @@
-## **re** 
- - This module provides regular expression matching operations similar to those found in Perl.
-  - `No installation required`
-## **scipy.stats** 
- - SciPy is a library used for scientific and technical computing. The stats module provides a large number of probability distributions and statistical functions.
-  - `pip install scipy`
-## **csv** 
- - The CSV module provides classes to read and write tabular data in CSV format. This can be used as an alternative to the 'read_excel' method in pandas.
-  - `No installation required`
 ## **math** 
- - The math module provides mathematical functions and constants. It is a built-in module in Python.
-  - `No installation required`
+ - Provides mathematical functions and operations.
+  - `No installation required. It is a built-in library in Python.`
 ## **sklearn.linear_model** 
- - Scikit-learn is a machine learning library for Python. The linear_model module provides classes for linear regression models.
+ - Provides functions for linear regression models.
   - `pip install scikit-learn`
-## **sqlalchemy** 
- - SQLAlchemy is a SQL toolkit and Object-Relational Mapping (ORM) library for Python.
-  - `pip install sqlalchemy`
-## **sys** 
- - The sys module provides access to some variables used or maintained by the interpreter and to functions that interact with the interpreter.
-  - `No installation required`
-## **requests** 
- - Requests is a simple HTTP library for Python.
-  - `pip install requests`
-## **matplotlib.pyplot** 
- - Matplotlib is a plotting library for Python. The pyplot module provides a convenient interface for creating figures and plots.
-  - `pip install matplotlib`
-## **flask** 
- - Flask is a lightweight web application framework for Python.
-  - `pip install flask`
-## **pandas** 
- - Pandas is a fast, powerful, flexible, and easy-to-use open-source data analysis and manipulation library.
-  - `pip install pandas`
-## **collections** 
- - The collections module provides alternatives to built-in container data types, such as dictionaries, lists, and tuples.
-  - `No installation required`
-## **itertools** 
- - The itertools module provides various functions that work on iterators to produce complex iterators.
-  - `No installation required`
-## **datetime** 
- - The datetime module supplies classes for manipulating dates and times.
-  - `No installation required`
-## **logging** 
- - The logging module provides a flexible framework for emitting log messages from Python programs.
-  - `No installation required`
-## **numpy** 
- - NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
-  - `pip install numpy`
-## **json** 
- - The json module provides functions for working with JSON (JavaScript Object Notation) data.
-  - `No installation required`
+## **re** 
+ - Provides regular expression matching operations.
+  - `No installation required. It is a built-in library in Python.`
 ## **sklearn.model_selection** 
- - Scikit-learn is a machine learning library for Python. The model_selection module provides classes for splitting datasets into train and test sets.
+ - Provides functions for splitting datasets into train and test sets.
   - `pip install scikit-learn`
+## **pandas** 
+ - Provides data structures and data analysis tools.
+  - `pip install pandas`
+## **datetime** 
+ - Provides classes for manipulating dates and times.
+  - `No installation required. It is a built-in library in Python.`
+## **csv** 
+ - Provides functions for working with CSV files.
+  - `No installation required. It is a built-in library in Python.`
+## **scipy.stats** 
+ - Provides statistical functions and distributions.
+  - `pip install scipy`
+## **sqlalchemy** 
+ - Provides a SQL toolkit and Object-Relational Mapping (ORM).
+  - `pip install sqlalchemy`
+## **flask** 
+ - Provides a micro web framework for building web applications.
+  - `pip install flask`
+## **requests** 
+ - Provides a simple HTTP library for Python.
+  - `pip install requests`
+## **json** 
+ - Provides functions for working with JSON data.
+  - `No installation required. It is a built-in library in Python.`
+## **logging** 
+ - Provides a flexible logging framework for Python.
+  - `No installation required. It is a built-in library in Python.`
+## **collections** 
+ - Provides additional data structures and counter.
+  - `No installation required. It is a built-in library in Python.`
+## **numpy** 
+ - Provides a powerful N-dimensional array object.
+  - `pip install numpy`
 ## **seaborn** 
- - Seaborn is a Python data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+ - Provides a high-level interface for drawing attractive and informative statistical graphics.
   - `pip install seaborn`
-## **os** 
- - The os module provides a way of using operating system dependent functionality.
-  - `No installation required`
+## **itertools** 
+ - Provides functions for creating iterators for efficient looping.
+  - `No installation required. It is a built-in library in Python.`
+## **matplotlib.pyplot** 
+ - Provides a plotting library for creating static, animated, and interactive visualizations in Python.
+  - `pip install matplotlib`
