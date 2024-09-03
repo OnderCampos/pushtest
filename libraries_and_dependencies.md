@@ -1,48 +1,51 @@
-## **Flask** 
- - Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.
+## **flask** 
+ - Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
   - `pip install flask`
 ## **pandas** 
- - Pandas is a fast, powerful, flexible, and easy-to-use open-source data analysis and data manipulation library for Python. It provides data structures and functions needed to manipulate and analyze structured data.
+ - Pandas is a fast, powerful, and flexible open-source data analysis and manipulation tool built on top of the Python programming language.
   - `pip install pandas`
 ## **seaborn** 
- - Seaborn is a data visualization library built on top of Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+ - Seaborn is a data visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
   - `pip install seaborn`
-## **scikit-learn** 
- - Scikit-learn is a machine learning library for Python that provides simple and efficient tools for data mining and data analysis. It features various classification, regression, and clustering algorithms.
+## **sklearn.linear_model** 
+ - sklearn.linear_model is a module from scikit-learn library, which provides various linear models for regression, including the LinearRegression model.
   - `pip install scikit-learn`
 ## **datetime** 
- - The datetime module supplies classes for working with dates and times in Python.
-  - `No installation required. datetime is a built-in module in Python.`
+ - Datetime is a module in the Python standard library that supplies classes for manipulating dates and times.
+  - `No installation required (part of Python standard library)`
 ## **csv** 
- - The csv module implements classes to read and write tabular data in CSV format.
-  - `No installation required. csv is a built-in module in Python.`
+ - CSV is a module in the Python standard library that provides classes for reading and writing comma-separated value (CSV) files.
+  - `No installation required (part of Python standard library)`
 ## **itertools** 
- - The itertools module provides various functions that work on iterators.
-  - `No installation required. itertools is a built-in module in Python.`
+ - Itertools is a module in the Python standard library that provides various functions to efficiently create iterators for efficient looping and data processing.
+  - `No installation required (part of Python standard library)`
 ## **sqlalchemy** 
- - SQLAlchemy is an open-source SQL toolkit and Object-Relational Mapping (ORM) library for Python.
+ - SQLAlchemy is a popular SQL toolkit and Object-Relational Mapping (ORM) library for Python, providing a set of high-level API for connecting to databases and performing database operations.
   - `pip install sqlalchemy`
 ## **collections** 
- - The collections module provides specialized container datatypes that are alternative to the built-in data types.
-  - `No installation required. collections is a built-in module in Python.`
+ - Collections is a module in the Python standard library that implements specialized container data types and provides alternative implementations of built-in types, such as defaultdict and Counter.
+  - `No installation required (part of Python standard library)`
+## **sklearn.model_selection** 
+ - sklearn.model_selection is a module from scikit-learn library that provides various mechanisms for model selection, such as train_test_split for splitting data into training and testing sets.
+  - `pip install scikit-learn`
 ## **math** 
- - The math module provides various mathematical functions and constants.
-  - `No installation required. math is a built-in module in Python.`
-## **scipy** 
- - SciPy is a library used for scientific and technical computing in Python. It provides functions for optimization, signal processing, linear algebra, and more.
+ - Math is a module in the Python standard library that provides various mathematical functions and constants.
+  - `No installation required (part of Python standard library)`
+## **scipy.stats** 
+ - scipy.stats is a module from SciPy library that provides a large number of statistical functions for scientific computing in Python.
   - `pip install scipy`
 ## **numpy** 
- - NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+ - NumPy is a fundamental package for scientific computing with Python, providing support for large, multi-dimensional arrays and matrices, along with a large collection of mathematical functions.
   - `pip install numpy`
-## **matplotlib** 
- - Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications.
+## **matplotlib.pyplot** 
+ - matplotlib.pyplot is a module from Matplotlib library, which provides a MATLAB-like plotting interface for creating a variety of static, animated, and interactive visualizations in Python.
   - `pip install matplotlib`
 ## **logging** 
- - The logging module defines functions, classes, and decorators to implement flexible logging mechanisms.
-  - `No installation required. logging is a built-in module in Python.`
+ - Logging is a module in the Python standard library that provides a flexible framework for emitting log messages from Python programs.
+  - `No installation required (part of Python standard library)`
 ## **os** 
- - The os module provides a portable way of using operating system dependent functionality.
-  - `No installation required. os is a built-in module in Python.`
+ - OS is a module in the Python standard library that provides a way of using operating system dependent functionality.
+  - `No installation required (part of Python standard library)`
 ## **re** 
- - The re module provides support for regular expressions in Python.
-  - `No installation required. re is a built-in module in Python.`
+ - Re is a module in the Python standard library that provides support for regular expressions, which are powerful tools for matching and manipulating strings.
+  - `No installation required (part of Python standard library)`
